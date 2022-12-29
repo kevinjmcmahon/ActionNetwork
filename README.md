@@ -2,7 +2,7 @@
 Website that transfers betting odd from the action network into a google sheet
 
 
-Inidiidual project that takes betting odds from The Action Network and transfers them into a Google Sheet
+Individual project that takes betting odds from The Action Network and transfers them into a Google Sheet
 
 **Main Features**
 
